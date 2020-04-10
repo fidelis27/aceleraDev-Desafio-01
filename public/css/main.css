@@ -460,6 +460,7 @@ body {
     .catalogo-filmes-lista-item {
         display: flex;
         height: 300px;
+        margin-bottom: 10px;
     }
     .filme-sinopse {
         display: flex;
@@ -467,6 +468,9 @@ body {
         height: 120px;
         padding: 10px;
         justify-content: space-between;
+    }
+    .filme-sinopse-titulo {
+        font-size: 7px;
     }
     .rodape .container {
         padding: 0 20px;
