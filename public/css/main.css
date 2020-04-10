@@ -478,6 +478,10 @@ body {
     .filme-nota {
         font-size: 10px;
     }
+    .rodape {
+        padding: 0px;
+        padding-bottom: 5px;
+    }
     .rodape .container {
         padding: 0 20px;
     }
