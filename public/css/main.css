@@ -392,7 +392,7 @@ body {
     }
     .hero-lista-item {
         margin: 0 5px;
-        font-size: 10px;
+        font-size: 5px;
     }
     .hero-usuario {
         display: flex;
@@ -418,7 +418,7 @@ body {
         font-size: 25px;
         font-weight: bold;
         line-height: 32px;
-        margin-top: 50px;
+        margin-top: 30px;
         text-transform: uppercase;
     }
     .hero-genero {
@@ -448,8 +448,8 @@ body {
     }
     .catalogo-menu {
         width: 100%;
-        padding: 0 5px;
-        font-size: 10px;
+        padding: 0 15px;
+        font-size: 8px;
     }
     .catalogo-filmes-lista {
         padding: 10px;
